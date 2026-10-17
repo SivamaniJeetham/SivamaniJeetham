@@ -80,7 +80,7 @@
 
 <p align="left">
   <a href="https://github.com/SivamaniJeetham">
-    <img src="https://img.shields.io/badge/GitHub-Imudaypamu-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-SivamaniJeetham-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
